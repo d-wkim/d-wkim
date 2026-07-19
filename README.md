@@ -27,15 +27,7 @@ with open(f"./myst.yml", "w") as f:
 !git push --force
 ```
 
-```python
-!jupyter book init --write-toc
-```
-
 https://www.dongwkim.com
-
-```python
-!jupyter-book create demo --demo
-```
 
 ```python
 
