@@ -34,5 +34,9 @@ with open(f"./myst.yml", "w") as f:
 https://www.dongwkim.com
 
 ```python
+!jupyter-book create demo --demo
+```
+
+```python
 
 ```
