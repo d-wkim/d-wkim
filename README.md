@@ -9,6 +9,7 @@ project:
   id: 30084285-534d-4579-9ecf-b55598a951ab
   title: Dong Woon Kim
   github: https://github.com/d-wkim/d-wkim
+  toc: 
   template: book-theme
   # options:
   #   favicon: favicon.ico
@@ -21,8 +22,15 @@ with open(f"./myst.yml", "w") as f:
 
 ```python
 !git add -A
-!git commit -m "
+!git commit -m f""""Update"""
+!git push --force
 ```
+
+```python
+!jupyter book init --write-toc
+```
+
+https://www.dongwkim.com
 
 ```python
 

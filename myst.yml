@@ -4,6 +4,10 @@ project:
   title: Dong Woon Kim
   github: https://github.com/d-wkim/d-wkim
   template: book-theme
+  toc:
+    - file: README.md
+
+
   # options:
   #   favicon: favicon.ico
   #   logo: site_logo.png
