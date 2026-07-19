@@ -4,17 +4,12 @@
 
 
 ```python
-myst = f"""# See docs at: https://mystmd.org/guide/frontmatter
-version: 1
+myst = f"""version: 1
 project:
   id: 30084285-534d-4579-9ecf-b55598a951ab
-  title: 
-  description:
-  authors:
-    - name: Dong Woon Kim
-      orcid: 0000-0002-5191-8685
+  title: Dong Woon Kim
   github: https://github.com/d-wkim/d-wkim
-  template: article-theme
+  template: book-theme
   # options:
   #   favicon: favicon.ico
   #   logo: site_logo.png
@@ -22,6 +17,11 @@ project:
 
 with open(f"./myst.yml", "w") as f:
     f.write(myst)
+```
+
+```python
+!git add -A
+!git commit -m "
 ```
 
 ```python
