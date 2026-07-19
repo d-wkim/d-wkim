@@ -11,7 +11,7 @@ project:
   github: https://github.com/d-wkim/d-wkim
   template: book-theme
   toc:
-    - file: README.md
+    - file: index.md
   # options:
   #   favicon: favicon.ico
   #   logo: site_logo.png
@@ -20,14 +20,6 @@ project:
 with open(f"./myst.yml", "w") as f:
     f.write(myst)
 ```
-
-```python
-!git add -A
-!git commit -m f""""Update"""
-!git push --force
-```
-
-https://www.dongwkim.com
 
 ```python
 
