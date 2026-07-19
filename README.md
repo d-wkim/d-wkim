@@ -3,12 +3,7 @@ aliases:
   - README
   - index
 cssclasses:
-  - hero-home
-  - list-cards
-  - hide-title
-  - list-cards-mobile-full
 permalink: /
-publish: false
 ---
 
 <div align="center">
@@ -21,7 +16,7 @@ publish: false
  
 <div align="center">
   <a href="https://dongwkim.com">
-    <img src="../Attachments/Assets/portrait.png" alt="Logo" width="200" height="200">
+    <img src="" alt="Logo" width="200" height="200">
   </a></div>
 
 <h1 align="center"><span style="font-variant: small-caps;">Dong Woon Kim M.D.</span></h1>
