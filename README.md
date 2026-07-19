@@ -9,8 +9,9 @@ project:
   id: 30084285-534d-4579-9ecf-b55598a951ab
   title: Dong Woon Kim
   github: https://github.com/d-wkim/d-wkim
-  toc: 
   template: book-theme
+  toc:
+    - file: README.md
   # options:
   #   favicon: favicon.ico
   #   logo: site_logo.png
