@@ -12,7 +12,6 @@ kernelspec:
   language: python
 ---
 
-
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=ResearchGate&logoColor=fff)](https://www.researchgate.net/profile/Dong-Woon-Kim)
 [![GoogleScholar](https://img.shields.io/badge/GoogleScholar-217165?logo=GoogleScholar&logoColor=fff)](https://scholar.google.com/citations?user=c28iX5QAAAAJ&hl=en)
 [![OSF](https://img.shields.io/badge/OSF-ADD8E6?logo=OSF&logoColor=fff)](https://orcid.org/0000-0002-5191-8685)
@@ -30,7 +29,6 @@ kernelspec:
 
 
 <p style="text-align:center;font-size:36px;font-variant:small-caps;font-family:Times New Roman;">Dong Woon Kim, M.D.</p>
-
 
 +++
 
